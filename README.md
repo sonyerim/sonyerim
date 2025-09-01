@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=Yerim's%20Github&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=240&text=Yerim's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <br> 
