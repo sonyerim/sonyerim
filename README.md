@@ -6,7 +6,7 @@
 - Linux
 
 ### Experience
-- [9oormtonUNIV](https://9oormthon.university/) 4th Android Part
+- [9oormthonUNIV](https://9oormthon.university/) 4th Android Part
 - [SOPT](https://www.sopt.org/) 37th Android Part
 
 ### Contact
