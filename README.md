@@ -1,38 +1,14 @@
-<!--
-**sonyerim/sonyerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Yerim Son
 
-Here are some ideas to get you started:
+### Skills
+- Kotlin
+- Python
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- [9oormtonUNIV](https://9oormthon.university/) 4th Android Part
+- [SOPT](https://www.sopt.org/) 37th Android Part
 
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=240&text=Yerim's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div align= "center">
-    <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <br/></div>
-    </div>
-    <div align= "center">
-    <br> 
-    <div align= "center"> <a href=https://www.instagram.com/edeemde/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/edeemde/"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyerim&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+### Contact
+- shellbeloved@naver.com
+- [Instagram](https://www.instagram.com/edeemde/)
