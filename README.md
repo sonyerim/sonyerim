@@ -1,7 +1,7 @@
 ### 👩🏻‍💻 Yerim Son
 
 ### Skills
-- Kotlin
+- Kotlin / Java
 - Python
 - Linux
 
