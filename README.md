@@ -4,6 +4,7 @@
 - Kotlin / Java
 - Python
 - Linux
+- AWS
 
 ### Experience
 - [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 15th Web(Java) Track <sub>2026.01 - ing</sub>
